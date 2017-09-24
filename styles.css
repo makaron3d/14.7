@@ -1,0 +1,22 @@
+body {
+    width: 800px;
+}
+
+div {
+    background: lightblue;
+}
+
+button {
+    background: lightgreen;
+    color: blue;
+}
+
+ul {
+    color: red;
+    
+}
+
+input {
+    color: red;
+    background: yellow;
+}
