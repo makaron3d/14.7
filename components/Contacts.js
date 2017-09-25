@@ -31,7 +31,7 @@ var Contacts = React.createClass({
 
     return (
       <ul className={'contactsList'} contacts></ul>
-      React.createElement('ul', {className: 'contactsList'}, contacts)
+     
     );
   }
 });
