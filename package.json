@@ -1,14 +1,13 @@
 {
   "name": "14.7",
   "version": "1.0.0",
-  "description": "",
   "main": "script.js",
   "dependencies": {
     "http-server": "^0.10.0"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1", 
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "http-server"
   },
   "repository": {
@@ -21,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/makaron3d/14.7/issues"
   },
-  "homepage": "https://github.com/makaron3d/14.7#readme"
+  "homepage": "https://github.com/makaron3d/14.7#readme",
+  "description": ""
 }
